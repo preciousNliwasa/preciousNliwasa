@@ -1,6 +1,7 @@
 <div align='center'><h1> Precious Nliwasa </h1></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=Keshav+Singh;SSE)](https://git.io/typing-svg)
+<div align='center'>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=Precious+Nliwasa;Half a human, Half a programmer)](https://git.io/typing-svg)</div>
+
 
 <div align="center">
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
