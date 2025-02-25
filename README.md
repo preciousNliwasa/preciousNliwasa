@@ -1,6 +1,6 @@
 <div align='center'><h1> Precious Nliwasa </h1></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=Red&background=FFFFFF00&multiline=true&width=435&lines=Precious+Nliwasa;MM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=Red&background=FFFFFF00&multiline=true&width=435&lines=Half+a+human+,+half+a+programmer;)](https://git.io/typing-svg)
 
 
 <div align="center">
