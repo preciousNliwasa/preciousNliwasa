@@ -13,7 +13,7 @@
 
 <div align='center'><img src='./assets/one-piece.gif' align='center'></div>
 
-<Br)
+<Br>
 
 <div align='center'>
 
