@@ -13,14 +13,12 @@
 
 <div align='center'><img src='./assets/one-piece.gif' align='center'></div>
 
+<Br)
 
 <div align='center'>
 
-### Hello  👋  Please be patient with me 🙏 I code different
-school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
-Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+## Hello  👋  Please be patient with me 🙏 I code different
+
 
 </div>
 
