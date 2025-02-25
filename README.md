@@ -14,7 +14,7 @@
 <div align='center'><img src='./assets/one-piece.gif' align='center'></div>
 
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
+### Hello  👋  Please be patient with me 🙏 I code different
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Backend Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
