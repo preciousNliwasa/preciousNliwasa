@@ -14,6 +14,8 @@
 <div align='center'><img src='./assets/one-piece.gif' align='center'></div>
 
 
+<div align='center'>
+
 ### Hello  👋  Please be patient with me 🙏 I code different
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Backend Development**
@@ -26,6 +28,9 @@
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
+
+</div>
+
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
