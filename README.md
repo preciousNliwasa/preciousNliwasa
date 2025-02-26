@@ -29,8 +29,8 @@
 - **Frameworks**: Angular
 - **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
 - **Operating Systems**: Windows, Linux
-- **Tools**: Visual Studio, Jira, Bitbucket, Azure DevOps, Git, SonarQube
-- **AWS**: App Config, Parameter Store, KMS, SQS, SNS, SES, Event Bus, App Flow, API Gateway, Lambda, Cognito, Step Functions, DynamoDB, S3 bucket, SAM CLI
+- **Keke Genkai**: Nothing but an alien
+- **Devil fruit**: Gom Gom
 - **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
 
 <br />
