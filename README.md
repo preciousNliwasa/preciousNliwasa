@@ -30,7 +30,7 @@
 - **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
 - **Operating Systems**: Windows, Linux
 - **Keke Genkai**: Nothing but an alien
-- **Devil fruit**: Gom Gom
+- **Devil fruit**: Gomu Gomu No Mi
 - **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
 
 <br />
