@@ -25,6 +25,7 @@
 <br />
 
 ## Skills
+- **An accidental programmer**
 - **Languages**: C#, .Net Core, ASP.NET Core Web API, REST, gRPC, Microservices, OOPs, Unit Testing [NUnit], TDD, SOQL
 - **Frameworks**: Angular
 - **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
