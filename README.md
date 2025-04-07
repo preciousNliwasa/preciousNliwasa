@@ -26,7 +26,7 @@
 
 ## Skills
 - **An accidental programmer**
-- **Languages**: Python,R, .Net Core, ASP.NET Core Web API, REST, gRPC, Microservices, OOPs, Unit Testing [NUnit], TDD, SOQL
+- **Languages**: Python,R, SQL, HTML and CSS, Julia, Java, Javascript, Solidity
 - **Frameworks**: Angular
 - **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
 - **Operating Systems**: Windows, Linux
