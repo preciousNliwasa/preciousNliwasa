@@ -27,12 +27,11 @@
 ## Skills
 - **An accidental programmer**
 - **Languages**: Python,R, SQL, HTML and CSS, Julia, Java, Javascript, Solidity
-- **Frameworks**: Angular
+- **Frameworks**: FastAPI, Shiny, Flask, Tensorflow, Pytorch
 - **Databases**: MySQL, Postgres, MSSQL
 - **Operating Systems**: Windows, Linux
 - **Keke Genkai**: Nothing but an alien
 - **Devil fruit**: Gomu Gomu No Mi
-- **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
 
 <br />
 
