@@ -148,7 +148,7 @@
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
-      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
+      <td>HTML,HTML5,CSS,CSS3,Javatyyiiscript,jQuery</td>
       <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
     </tr>
   </tbody>
