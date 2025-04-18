@@ -60,17 +60,8 @@
 </details>
 <!-- end statics fun section -->
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
 
 
 
-[![test_workflow](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml/badge.svg)](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml)
+[![test_workflow](https://github.com/preciousnliwasa/preciousnliwasa/actions/workflows/blank.yml/badge.svg)](https://github.com/preciousnliwasa/preciousnliwasa/actions/workflows/blank.yml)
