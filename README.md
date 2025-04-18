@@ -41,7 +41,7 @@
 
 <!-- Github Stats -->
 <details>
-<summary><b> Some Statistics Fun </b></summary>
+<summary><b> My Github Stats </b></summary>
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=preciousnliwasa&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
@@ -60,8 +60,3 @@
 </details>
 <!-- end statics fun section -->
 
-
-
-
-
-[![test_workflow](https://github.com/preciousnliwasa/preciousnliwasa/actions/workflows/blank.yml/badge.svg)](https://github.com/preciousnliwasa/preciousnliwasa/actions/workflows/blank.yml)
