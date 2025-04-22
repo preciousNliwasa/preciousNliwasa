@@ -32,7 +32,7 @@
 
 ## Profiles
 
-<!-- Github Stats -->
+<!-- Github Statistics -->
 <details>
 <summary><b> My Github Stats </b></summary>
 <div align="center">
