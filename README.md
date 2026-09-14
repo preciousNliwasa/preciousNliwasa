@@ -26,8 +26,9 @@
 - **Tools**:
 
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=python,r,julia,java,javascript,html,css,solidity" />
+<img src="https://skillicons.dev/icons?i=python,mysql,r,julia,java,javascript,html,css,solidity" />
+<br/>
+<img src="https://img.shields.io/badge/Vyper-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
 </div>
 
 - **Devil fruit**: Gomu Gomu No Mi
-
