@@ -26,7 +26,7 @@
 - **Tools**:
 
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=python,mysql,r,julia,java,javascript,html,css,solidity" />
+<img src="https://skillicons.dev/icons?i=python,mysql,r,julia,java,javascript,html,css,solidity,docker,github,tensorflow,pytorch,vscode" />
 <br/>
 <img src="https://img.shields.io/badge/Vyper-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
 </div>
