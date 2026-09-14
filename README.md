@@ -23,7 +23,11 @@
 
 ## About Me
 - **An accidental programmer**
-- **Languages**: Python, Vyper, R, SQL, HTML and CSS, Julia, Java, Javascript, Solidity
-- **Devil fruit**: Gomu Gomu No Mi
+- **Tools**:
 
+<div align='center'>
+<img src="https://skillicons.dev/icons?i=python,r,julia,java,javascript,html,css,solidity" />
+</div>
+
+- **Devil fruit**: Gomu Gomu No Mi
 
