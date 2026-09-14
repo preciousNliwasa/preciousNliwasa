@@ -23,7 +23,7 @@
 
 ## About Me
 - **An accidental programmer**
-- **Languages**: Python,R, SQL, HTML and CSS, Julia, Java, Javascript, Solidity
+- **Languages**: Python, Vyper, R, SQL, HTML and CSS, Julia, Java, Javascript, Solidity
 - **Devil fruit**: Gomu Gomu No Mi
 
 
